@@ -1,8 +1,8 @@
 # MindShift-AI
 
-Here’s a **README.md** file tailored to your Python project:  
 
-```markdown
+
+
 # Emotion Detection and Mental Health Support Assistant
 
 This project is a real-time emotion detection and mental health support system using Python. It utilizes computer vision, emotion recognition, and a chatbot powered by the Google Gemini API to provide comfort and assistance to users experiencing sadness or stress.
