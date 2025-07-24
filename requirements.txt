@@ -1,0 +1,9 @@
+opencv-python
+fer
+moviepy
+pyttsx3
+SpeechRecognition
+google-generativeai
+python-dotenv
+pyaudio
+tensorflow
